@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @reykimedev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Network Engineer | CCIE Enterprise Infrastructure
+
+Passionate about network automation, infrastructure, DevOps, and open-source development. Building practical tools that simplify infrastructure management, monitoring, and homelab operations.
+
+Creator of labdex — lightweight homelab inventory and automation.
 
 <!---
 reykimedev/reykimedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
