@@ -7,10 +7,10 @@ Building practical tools that simplify infrastructure management, monitoring, an
 
 ```text
 mike> show chassis
-U1  hubra    app                                             · club management software for Swiss clubs                            github.com/hubra-app
-U2  labdex   tool                                            · lightweight homelab inventory and automation github.com/labdex-app
+U1  hubra    app   · club management software for Swiss clubs      github.com/hubra-app
+U2  labdex   tool  · lightweight homelab inventory and automation  github.com/labdex-app
 U3  homelab  infra · the lab, which is also my home network
-U4  mason    tool                                            · many repos at once, from one command                                github.com/mortar-ch
+U4  mason    tool  · many repos at once, from one command          github.com/mortar-ch
 ```
 
 | Org | What lives there |
