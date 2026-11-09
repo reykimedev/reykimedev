@@ -1,10 +1,25 @@
-Network Engineer | CCIE Enterprise Infrastructure
+### Hi, I'm Mike Keller
 
-Passionate about network automation, infrastructure, DevOps, and open-source development. Building practical tools that simplify infrastructure management, monitoring, and homelab operations.
+Network Engineer and Tech Lead Operations · CCIE Enterprise Infrastructure #70573 · Switzerland
 
-Creator of labdex — lightweight homelab inventory and automation.
+Passionate about network automation, infrastructure, DevOps, and open-source development.
+Building practical tools that simplify infrastructure management, monitoring, and homelab operations.
 
-<!---
-reykimedev/reykimedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```text
+mike> show chassis
+U1  hubra    app   · club management software for Swiss clubs   github.com/hubra-app
+U2  labdex   tool  · lightweight homelab inventory and automation github.com/labdex-app
+U3  homelab  infra · the lab, which is also my home network
+U4  mason    tool  · many repos at once, from one command       github.com/mortar-ch
+```
+
+| Org | What lives there |
+| --- | --- |
+| [bitsandbricks-ch](https://github.com/bitsandbricks-ch) | [BitsAndBricks](https://bitsandbricks.ch), where my side projects live: the website, mason and the repo defaults |
+| [hubra-app](https://github.com/hubra-app) | [Hubra](https://hubra.club), club software that started at VollBuild, our makerspace club, and its plugins |
+| [labdex-app](https://github.com/labdex-app) | [labdex](https://labdex-app.github.io/labdex/), a small inventory for homelabs, and its plugins |
+| [mortar-ch](https://github.com/mortar-ch) | [mortar.ch](https://mortar.ch), the tools that hold the bricks together |
+
+Also on the infrastructure and network team of [Lock and Load](https://lockandload.ch), a Swiss LAN party and eSports event.
+
+[bitsandbricks.ch](https://bitsandbricks.ch) · [LinkedIn](https://www.linkedin.com/in/mike-keller-181827253/)
