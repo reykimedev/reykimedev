@@ -22,4 +22,4 @@ U4  mason    tool  · many repos at once, from one command          github.com/m
 
 Also on the infrastructure and network team of [Lock and Load](https://lockandload.ch), a Swiss LAN party and eSports event.
 
-[bitsandbricks.ch](https://bitsandbricks.ch)
+[bitsandbricks.ch](https://bitsandbricks.ch) · [LinkedIn](https://www.linkedin.com/in/mike-keller-181827253/)
